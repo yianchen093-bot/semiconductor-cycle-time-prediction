@@ -43,6 +43,15 @@ Random Forest achieved the best prediction performance.
 - Scikit-learn
 - Matplotlib
 
+## Presentation Slide
+
+[Semiconductor Cycle Time Prediction.pdf](https://github.com/user-attachments/files/28824415/Semiconductor.Cycle.Time.Prediction.pdf)
+
+## Presentation Report
+
+[Semiconductor Cycle Time Prediction-Report.pdf](https://github.com/user-attachments/files/28824446/Semiconductor.Cycle.Time.Prediction-Report.pdf)
+
+
 ## Author
 
 Yi An Chen
