@@ -32,9 +32,11 @@ Cycle Time is a critical KPI in semiconductor manufacturing because it impacts d
 - Random Forest
 - XGBoost
 
-## Results
+## Key Findings
 
-Random Forest achieved the best prediction performance.
+- Random Forest achieved the highest predictive performance.
+- WIP Level, Queue Time, and Utilization were identified as the most influential factors.
+- The model can help manufacturing teams identify potential cycle time risks earlier and improve production planning efficiency.
 
 ## Technologies
 
