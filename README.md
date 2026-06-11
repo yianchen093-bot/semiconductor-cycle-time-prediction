@@ -1,28 +1,47 @@
 # Semiconductor Cycle Time Prediction
 
-## Project Background
+## Project Overview
 
-This project aims to predict semiconductor cycle time using machine learning techniques.
+This project applies machine learning techniques to predict semiconductor manufacturing cycle time and identify important factors affecting production performance.
 
-## Objective
+## Business Problem
 
-Predict cycle time and identify important manufacturing factors.
+Cycle Time is a critical KPI in semiconductor manufacturing because it impacts delivery performance and production efficiency.
 
-## Tools
+## Dataset
+
+15 features:
+
+- lot_id
+- product_type
+- process_step
+- machine_id
+- priority
+- arrival_time
+- cycle_time
+- queue_time
+- wip_level
+- utilization
+- downtime_min
+- rework_flag
+- bottleneck_flag
+
+## Machine Learning Models
+
+- Decision Tree
+- Random Forest
+- XGBoost
+
+## Results
+
+Random Forest achieved the best prediction performance.
+
+## Technologies
 
 - Python
 - Pandas
 - Scikit-learn
 - Matplotlib
-
-## Model
-
-- Random Forest
-- Decision Tree
-
-## Results
-
-Random Forest achieved the best performance.
 
 ## Author
 
